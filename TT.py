@@ -4,7 +4,7 @@ import os
 
 tts = [
     {"soal": "Rel,Rel apa yang paling sakit?", "jawaban": "Rela-in aku pergi bersama yang lain"},
-    {"soal": "Orang Yang Melihat Pacar nya Jalan sama orang lainlain,disebut apa?", "jawaban": "Orang NT"},
+    {"soal": "Siapa yang buat Script Ini?", "jawaban": "Arel"},
     {"soal": "Apa yang bisa berdiri sendiri namun tidak bisa berjalan?", "jawaban": "rumah"},
     {"soal": "Apa yang bisa terbang tanpa sayap?", "jawaban": "waktu"},
     {"soal": "Apa yang selalu ada di depan mata tetapi tidak pernah terlihat?", "jawaban": "masa depan"}
